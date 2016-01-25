@@ -86,15 +86,6 @@
       "groupName": "executionOptions"
     },
     {
-      "name": "runInParallel",
-      "type": "boolean",
-      "label": "ms-resource:loc.input.label.runInParallel",
-      "defaultValue": "true",
-      "required": false,
-      "helpMarkDown": "ms-resource:loc.input.help.runInParallel",
-      "groupName": "executionOptions"
-    },
-    {
       "name": "vsTestVersion",
       "type": "pickList",
       "label": "ms-resource:loc.input.label.vsTestVersion",
