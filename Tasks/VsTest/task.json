@@ -83,15 +83,6 @@
       "groupName": "executionOptions"
     },
     {
-      "name": "runInParallel",
-      "type": "boolean",
-      "label": "Run In Parallel",
-      "defaultValue": "true",
-      "required": false,
-      "helpMarkDown": "Enable parallel execution of your tests.",
-      "groupName": "executionOptions"
-    },
-    {
       "name": "vsTestVersion",
       "type": "pickList",
       "label": "VSTest version",
